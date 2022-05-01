@@ -7,6 +7,14 @@ Designed specifically for the bucked up perfect shaker
 
 
 
+## :globe_with_meridians: Links
+
+
+
+- **Thingiverse**: [https://www.thingiverse.com/thing:5201710](https://www.thingiverse.com/thing:5201710)
+- **Prusa**: [https://www.prusaprinters.org/prints/119261-bucked-up-bottle-loop](https://www.prusaprinters.org/prints/119261-bucked-up-bottle-loop)
+- **Github**: [https://github.com/spuder/buckedup-bottle-loop](https://github.com/spuder/buckedup-bottle-loop)
+
 ## :triangular_ruler: CAD files
 
 3d files are located in the [CAD](./CAD) directory.
@@ -21,11 +29,11 @@ Designed specifically for the bucked up perfect shaker
 - [Perfect Shaker](https://www.buckedup.com/product/perfect-shaker)
 
 ## :camera: Photos
-![](photos%2FIMG_1346.jpeg)
 ![](photos%2F1564767710_bu-shaker-red.png)
-![](photos%2FScreenshot%202022-01-15%20220627.png)
-![](photos%2FIMG_1348.jpeg)
 ![](photos%2FIMG_1344.jpeg)
+![](photos%2FIMG_1346.jpeg)
+![](photos%2FIMG_1348.jpeg)
+![](photos%2FScreenshot%202022-01-15%20220627.png)
 ![](photos%2Fcropped)
 
 ---
